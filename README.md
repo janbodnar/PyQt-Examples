@@ -1,5 +1,5 @@
 # PyQt-Examples
-Sources and images for ZetCode's [PyQt code examples](http://zetcode.com/all/#pyqt) 
+Sources and images for ZetCode's [PyQt tutorials](http://zetcode.com/all/#pyqt) 
 
 This repository contains more in-depth examples for different topics. 
 
